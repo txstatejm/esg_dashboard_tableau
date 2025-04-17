@@ -63,7 +63,15 @@ esg_q3.csv: ESG Scores and Carbon Emissions by Region
 
 This was my second attempt at a Tableau dashboard, and my 3rd dashboard overall. 
 
+I am constantly relying on Google and ChatGPT for assistance, but I am learning.
 
+I chose to analyze financial data this time because I think that is what I would primarily be analyzing for a business. I created 3 different charts on 3 sheets, then combined them into a dashboard and added text and background color this time.
+
+This allowed me to see the layout view, and how floating boxes can be moved and re-sized for your visualization.
+
+There isn't much continuity in this analysis. I wanted to pull data, display relevant queries, and then try to display it in a pleasant way.
+
+I have a lot of work to do on cleaning, querying, and displaying the data, but I'm progressing. 
 
 ---
 
