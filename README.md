@@ -69,7 +69,7 @@ I chose to analyze financial data this time because I think that is what I would
 
 This allowed me to see the layout view, and how floating boxes can be moved and re-sized for your visualization.
 
-There isn't much continuity in this analysis. I wanted to pull data, display relevant queries, and then try to display it in a pleasant way.
+There isn't much continuity in this analysis. I wanted to pull data with relevant queries and then try to display it in a pleasant way.
 
 I have a lot of work to do on cleaning, querying, and displaying the data, but I'm progressing. 
 
